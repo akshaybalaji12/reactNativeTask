@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606207771657",
+    "firebase_url": "https://reactnativetask-e264e.firebaseio.com",
+    "project_id": "reactnativetask-e264e",
+    "storage_bucket": "reactnativetask-e264e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606207771657:android:be6cf6eba3101976",
+        "android_client_info": {
+          "package_name": "project.akshay.reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606207771657-eoo57jfnicu1677os5s16kmmq8kt5fkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDACsuN7AZE0PLyMz7jaVVfqRljpFq_qps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606207771657-eoo57jfnicu1677os5s16kmmq8kt5fkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
