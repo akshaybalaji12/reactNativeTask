@@ -50,6 +50,8 @@ export class HomeScreen extends Component {
         const {navigation} = this.props;
         const FirstRoute = () => {
             var name;
+            try {
+
             const userID = firebase.auth().currentUser.uid;
             firebase
             .database()
@@ -63,6 +65,10 @@ export class HomeScreen extends Component {
                         <Text style={styles.welcome}> Welcome, {name}</Text>
                     </View>
                 )
+            }
+                
+            } catch (error) {
+                
             }
             
         };
